@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mickael Bula
 - 👀 I’m interested in php development
-- 🌱 I’m currently learning Symfony
+- 🌱 I’m currently learning Symfony and React
 - 💞️ I’m looking to collaborate on web project
 - 📫 You can reach on linkedin.com/in/mickael-bula 
 
