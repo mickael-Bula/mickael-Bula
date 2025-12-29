@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mickael Bula
-- 👀 I’m interested in php development
-- 🌱 I’m currently learning Symfony and React
-- 💞️ I’m looking to collaborate on web project
+- 👀 I’m a php developer
+- 🌱 I’m currently using Symfony and Vue
+- 🐧 I have my own Proxmox homelab (LXC, VMs, Docker)
 - 📫 You can reach on linkedin.com/in/mickael-bula 
 
 <!---
